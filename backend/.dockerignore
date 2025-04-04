@@ -25,3 +25,5 @@ Dockerfile
 *.log
 *.tmp
 *.swp
+*.zip
+*.tar.gz    
