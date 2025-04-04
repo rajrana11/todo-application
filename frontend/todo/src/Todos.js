@@ -76,7 +76,7 @@ export default function Todos() {
       
           <MDBCol size="12">
             <MDBInput
-              label="Enter your task here..."
+              label="Enter rajesh task here..."
               id="form1"
               type="text"
               name="title"
